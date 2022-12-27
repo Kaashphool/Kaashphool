@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaashphool
 - 👀 I’m interested in everything fast-  be it a Koenigsegg or an i9 processor
-- 🌱 I’m currently learning web development among a billion other stuff
-- 💞️ I’m looking to collaborate on web dev projects
+- 🌱 I’m currently working at Capgemini as a software engineer and learning new things everyday
+- 💞️ I’m looking to collaborate on big data or MS Azure projects
 - 📫 How to reach me - drop a mail at kaash2500@gmail.com
 
 <!---
